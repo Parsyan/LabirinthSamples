@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Labyrinth {
+public class LabyrinthByPP {
 
     public static char[][] createWorldBoard(short height, short length, int[] state, Random random) {
         char[][] board = new char[height][length];
